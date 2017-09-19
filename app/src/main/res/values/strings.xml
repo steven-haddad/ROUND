@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapBox Integration</string>
+    <string name="action_settings">Settings</string>
+    <string name="accessToken">pk.eyJ1Ijoic3RldmVuOTQxIiwiYSI6ImNqN3EzMTJwcDN0NGkzM21sYXhiMHJ0NHUifQ.U2LXySHer4QIs-uY73sabQ</string>
+</resources>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/haddad/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/gson-2.3.1_86a28621763474ece9492577f0dd5ffec7514535.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_648f6e36027747818bdf3ecd184d85a391652594.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_35257b57f52960da18168fb43b609280a7ff8029.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_4a6bc73b22025380897808ca687a6d1acc3e25e3.jar" />
+    </item>
+    <item
+        jar="/home/haddad/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_b7115b3aa85aa31b89f18d705811ed89a502d2e9.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_b73e45be9441f40210cf5bbd52a5435a638cef5b.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_f9db44846e34248c65a04fee3506fd92898109be.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2092ef171235895fa0405728c2db4865e26c4331">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-sdk-3.2.0_08fad2df53ef91ee4d78aa479e698152317cacbd.jar" />
+    </item>
+    <item
+        jar="/home/haddad/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2_9f2de5cd3b56b31a633f622ca8499fc73945c7b7.jar" />
+    </item>
+    <item
+        jar="/home/haddad/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_275f51d35adc6b1af5acc4822b6e62f04ec4b5f1.jar" />
+    </item>
+    <item
+        jar="/home/haddad/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/okio-1.6.0_24940f0cac3f4005d925d212bb95f3c1e0e5689c.jar" />
+    </item>
+    <item
+        jar="/home/haddad/.gradle/caches/modules-2/files-2.1/com.mapzen.android/lost/1.0.1/5f807d0be6ca894f6ae0007e884099793b2c8633/lost-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f807d0be6ca894f6ae0007e884099793b2c8633">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/lost-1.0.1_0e397f3aedc9a682e58d0845de932a2076b94c4c.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_50c2ab47a2d6c1f3975ce63ea55bb9f2c866d87e.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_e075235996fa6593c93b4ae89c69f5edf427d4bd.jar" />
+    </item>
+    <item
+        jar="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-directions/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0bbd0b62ee66bef1b80ad2354ad968282fbf99ba">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-directions-1.0.0_3b8e76669a675a73f2d106babdcbdac88c56f024.jar" />
+    </item>
+    <item
+        jar="/home/haddad/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2_70822777fcdf2325aba27d18b09b48f82efd1b5c.jar" />
+    </item>
+    <item
+        jar="/home/haddad/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/home/haddad/Bureau/MapBoxIntegration/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1_5e285786eef3d1658e91870bb5ba2c8a08069ea3.jar" />
+    </item>
+
+</items>
